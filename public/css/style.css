@@ -1,0 +1,127 @@
+/******* utilities start *********/
+/******* utilities end *********/
+.mat-btn {
+  border-radius: 4px;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px 20px;
+}
+.mat-btn-primary {
+  background-color: #0455BF;
+  color: #F2F2F2;
+  border-color: #CEE4F2;
+}
+.mat-btn-primary-outline {
+  background-color: #CEE4F2;
+  color: #0455BF;
+  border-color: #0455BF;
+}
+.mat-btn-success {
+  background-color: #468C51;
+  color: #F2F2F2;
+  border-color: #C0EBC5;
+}
+.mat-btn-success-outline {
+  background-color: #C0EBC5;
+  color: #468C51;
+  border-color: #468C51;
+}
+.mat-btn-warning {
+  background-color: #FAA755;
+  color: #1F1B28;
+  border-color: #FFF2E4;
+}
+.mat-btn-warning-outline {
+  background-color: #FFF2E4;
+  color: #FAA755;
+  border-color: #FAA755;
+}
+.mat-btn-danger {
+  background-color: #C52331;
+  color: #F2F2F2;
+  border-color: #FFDDDA;
+}
+.mat-btn-danger-outline {
+  background-color: #FFDDDA;
+  color: #C52331;
+  border-color: #C52331;
+}
+.mat-btn-info {
+  background-color: #4DC0E0;
+  color: #1F1B28;
+  border-color: #EEF9FF;
+}
+.mat-btn-info-outline {
+  background-color: #EEF9FF;
+  color: #4DC0E0;
+  border-color: #4DC0E0;
+}
+.mat-btn-secondary {
+  background-color: #747474;
+  color: #F2F2F2;
+  border-color: #D6D7DC;
+}
+.mat-btn-secondary-outline {
+  background-color: #D6D7DC;
+  color: #747474;
+  border-color: #747474;
+}
+.mat-btn-light {
+  background-color: #F2F2F2;
+  color: #1F1B28;
+  border-color: #F2F2F2;
+}
+.mat-btn-light-outline {
+  background-color: #F2F2F2;
+  color: #1F1B28;
+  border-color: #F2F2F2;
+}
+.mat-btn-dark {
+  background-color: #1F1B28;
+  color: #F2F2F2;
+  border-color: #1F1B28;
+}
+.mat-btn-dark-outline {
+  background-color: #1F1B28;
+  color: #F2F2F2;
+  border-color: #1F1B28;
+}
+.mat-btn-baby {
+  background-color: #FD5D90;
+  color: #F2F2F2;
+  border-color: #FFE4EC;
+}
+.mat-btn-baby-outline {
+  background-color: #FFE4EC;
+  color: #FD5D90;
+  border-color: #FD5D90;
+}
+.mat-btn-flower {
+  background-color: #7D4CE0;
+  color: #F2F2F2;
+  border-color: #CBB1FF;
+}
+.mat-btn-flower-outline {
+  background-color: #CBB1FF;
+  color: #7D4CE0;
+  border-color: #7D4CE0;
+}
+.mat-btn-small {
+  padding: 6px 16px;
+  font-size: 14px;
+}
+.mat-btn-large {
+  padding: 14px 24px;
+  font-size: 18px;
+}
+.mat-btn-dotted {
+  border-style: dotted;
+}
+.mat-btn-dashed {
+  border-style: dashed;
+}
+
+/******* components start *********/
+/******* components end *********/
+/******* utilities start *********/
+/******* utilities end *********/
